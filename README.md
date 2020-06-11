@@ -11,3 +11,13 @@ You just have to follow the next steps:
   $ npm install serve -D # install serve as a development dependency
   $ npx serve . # running node server
 ```
+
+## Project
+
+- Initial screen (Result section hidden)
+
+![image](https://user-images.githubusercontent.com/37910437/84408928-241c9400-abe3-11ea-9640-9cccdcccd858.png)
+
+- After click Calculate button (Shows result section)
+
+![image](https://user-images.githubusercontent.com/37910437/84409201-7bbaff80-abe3-11ea-8400-629c80a3bcc8.png)
